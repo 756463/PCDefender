@@ -1,1 +1,6 @@
 # SDLC-Project
+### Project Overview
+This project requires the development of a game/website/application which must incorporate GUI elements and programming concepts learned throughout the course. We have chosen to create a game, more specifically a “Plants vs. Zombies” style game with cybersecurity themes. We chose this because the game itself allows implementation of required elements in the assignment including: Java Swing GUI Elements, Abstract Classes/Implementation, Collision Detection, File I/O, Animation, and Event Handling. We also chose to make the theme cybersecurity related to relate the visuals to computer science. We aim to develop a game with polished visuals and some custom images, lane-based tower defence elements, currency generation, a shop, towers and enemies, a level system, score saving, and different game states to show different screens (login page, game window, end screen, leaderboard).
+### Team Members
+##### Shengwei An
+##### Ryan Scherbinsky
